@@ -1,0 +1,18 @@
+span{
+    cursor: pointer;
+  }
+h1{
+  text-align: center;
+}
+form{
+  text-align: center;
+}
+ input,select{
+  width: 160px;
+  height: 24px;
+  margin-top: 5px;
+}
+
+.user .btn{
+  margin-right: 10px;
+}
